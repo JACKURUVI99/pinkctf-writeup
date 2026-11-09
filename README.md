@@ -56,3 +56,4 @@ python3 src/generate.py --mapping challenge/pink.qmap --out build/original-map
 ## Flag
 
 `PINK{NiNeTyNiNeQwErTzEs}`
+# pinkctf-writeup
